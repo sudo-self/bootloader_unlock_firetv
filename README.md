@@ -3,6 +3,8 @@
 - A simple tool to unlock the bootloader on Fire TV devices using the Android NDK.
 ---
 
+## <a href="https://github.com/sudo-self/bootloader_unlock_firetv/blob/0c647a682d1e6d309e06d6c0891ff006601faac2/FireTVunlock.apk">FireTVunlock.apk</a>
+
 ## Requirements
 
 - [Android Native Development Kit (NDK)](http://developer.android.com/tools/sdk/ndk/index.html#Downloads)
