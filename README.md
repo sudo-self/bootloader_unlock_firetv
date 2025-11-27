@@ -4,7 +4,14 @@
 ---
 <img width="795" height="306" alt="Screenshot 2025-11-26 at 22 29 22" src="https://github.com/user-attachments/assets/2962d3fb-fad4-49af-8ddd-05cc7f3c9ebc" />
 
-## <a href="https://github.com/sudo-self/bootloader_unlock_firetv/blob/0c647a682d1e6d309e06d6c0891ff006601faac2/FireTVunlock.apk">FireTVunlock.apk</a>
+### <a href="https://github.com/sudo-self/bootloader_unlock_firetv/blob/0c647a682d1e6d309e06d6c0891ff006601faac2/FireTVunlock.apk">FireTVunlock.apk</a>
+
+### ADB Script (curl)
+
+```
+curl -L -o unlockTV.sh https://raw.githubusercontent.com/sudo-self/bootloader_unlock_firetv/deae47c8170392a6c87ed13b1f3cc970374376c0/unlockTV.sh
+```
+
 
 ## Requirements
 
