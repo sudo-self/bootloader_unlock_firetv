@@ -11,15 +11,23 @@
 ```
 curl -L -o unlockTV.sh https://raw.githubusercontent.com/sudo-self/bootloader_unlock_firetv/deae47c8170392a6c87ed13b1f3cc970374376c0/unlockTV.sh
 ```
+- open the unlockTV.sh and add your-fire-tv-ip
 
+```
+chmod +x unlockTV.sh
+```
+### Run it
+```
+./unlockTV.sh
+```
 
-## Requirements
+## BUILD
 
 - [Android Native Development Kit (NDK)](http://developer.android.com/tools/sdk/ndk/index.html#Downloads)
 
 ---
 
-## Build Instructions
+
 
 1. Clone the repository:
 
